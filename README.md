@@ -4,9 +4,9 @@ The information the Dataset gives us: (id, imdb_id, popularity, budget, revenue,
 
 # My Questions for analysis:
 
-Top ten most popular actors
-Top 10 most profitable Movies
-Relation between Budget and Vote Average
+1. Top ten most popular actors
+2. Top 10 most profitable Movies
+3. Relation between Budget and Vote Average
 Top 10 most profitable genres
 Top 10 Directors with the highest ratings
 Relation between Budget and Revenue
